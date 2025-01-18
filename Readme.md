@@ -1,0 +1,2 @@
+# RISC-V Project
+Extra project done by Bruno Freitas Moreira (me) for the FSC (Fundamentos de Sistemas Computacionais). Assembly code in RISC-V for the basic operations (add, subtract, multiply, divide) of two floating point numbers. Done to study for second test of FSC.
